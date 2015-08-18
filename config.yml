@@ -1,0 +1,6 @@
+default:
+  server:
+    port: 3579
+  command: SCRIPT_NAME_OR_COMMAND
+  webhook:
+    url: WEBHOOK_URL

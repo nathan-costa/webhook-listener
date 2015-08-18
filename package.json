@@ -1,0 +1,15 @@
+{
+  "name": "nathan",
+  "version": "1.0.0",
+  "description": "simple listener to run a script when an external request is made",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "nathan power",
+  "license": "MIT",
+  "dependencies": {
+    "exec-sync": "^0.1.6",
+    "express": "^4.13.3",
+    "node-yaml-config": "0.0.3"
+  }
+}
