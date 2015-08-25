@@ -1,6 +1,6 @@
 default:
   server:
     port: 3579
-  command: ../update_lang.sh
+  command: update_lang.sh
   webhook:
     url: /765AF6D1D25B1721CD1D24F5D36EC
